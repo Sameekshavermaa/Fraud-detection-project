@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Credit Card Fraud Detection using Machine Learning
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
@@ -34,11 +34,11 @@ The boxplot compares the distribution of transaction amounts for normal and frau
 
 ![image alt](https://github.com/Sameekshavermaa/Fraud-detection-project/blob/6d257cbad070803ef204f6f487d888687c8dd0b1/output2.png)
 
-## Features
-- Data preprocessing
-- Fraud detection model
-- Precision and recall evaluation
-- Confusion matrix visualization
+## Project Highlights
+• Data preprocessing and analysis  
+• Fraud detection using Random Forest  
+• Model evaluation using precision, recall, and F1-score  
+• Visualization with confusion matrix and probability distribution
 
 ## Goal
 Build a real-world AI fraud detection system.
