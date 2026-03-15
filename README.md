@@ -65,4 +65,4 @@ Since the dataset is highly imbalanced, evaluation metrics like **Precision**, *
 
 The confusion matrix shows the performance of the fraud detection model.
 
-![Confusion Matrix](images/confusion-matrix.png)
+![Confusion Matrix]([images/confusion-matrix.png](https://github.com/Sameekshavermaa/Fraud-detection-project/blob/b4211bb57ca63b3212590accebc9b990bb7f6d63/images%3Aconfusion-matrix.png))
