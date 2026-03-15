@@ -28,6 +28,12 @@ This histogram shows how transaction amounts are distributed across the dataset.
 
 ![image alt](https://github.com/Sameekshavermaa/Fraud-detection-project/blob/d6268093a6be6c187ae77790788379665d6f1ee9/output1.png)
 
+## Transaction Amount Boxplot
+
+The boxplot compares the distribution of transaction amounts for normal and fraudulent transactions.
+
+![Transaction Boxplot](images/amount-boxplot.png)
+
 ## Features
 - Data preprocessing
 - Fraud detection model
