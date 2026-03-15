@@ -2,6 +2,10 @@
 
 This project builds a machine learning model to detect fraudulent credit card transactions.
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ## Model Used
 Random Forest Classifier
 
