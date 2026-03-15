@@ -22,6 +22,12 @@ The dataset is highly imbalanced, with far fewer fraudulent transactions than no
 
 ![image alt](https://github.com/Sameekshavermaa/Fraud-detection-project/blob/bde582a9c2c03796bd36a8ac19c9c027607e7914/output.png)
 
+## Transaction Amount Distribution
+
+This histogram shows how transaction amounts are distributed across the dataset.
+
+![image alt](https://github.com/Sameekshavermaa/Fraud-detection-project/blob/d6268093a6be6c187ae77790788379665d6f1ee9/output1.png)
+
 ## Features
 - Data preprocessing
 - Fraud detection model
