@@ -65,7 +65,7 @@ Since the dataset is highly imbalanced, evaluation metrics like **Precision**, *
 
 The confusion matrix shows the performance of the fraud detection model.
 
-![image alt](https://github.com/Sameekshavermaa/Fraud-detection-project/blob/77ca9ef6d5feb5e252994fd79856286a9e73a9a0/Screenshot%202026-03-15%20at%2013.52.50.png)
+![image alt]([https://github.com/Sameekshavermaa/Fraud-detection-project/blob/77ca9ef6d5feb5e252994fd79856286a9e73a9a0/Screenshot%202026-03-15%20at%2013.52.50.png](https://github.com/Sameekshavermaa/Fraud-detection-project/blob/44cf9262aacd754b82b23229cc50289fece895ea/Untitled.png))
 ### Confusion Matrix Interpretation
 
 - True Negatives: 56854 (Normal transactions correctly identified)
