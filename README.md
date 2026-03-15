@@ -106,7 +106,7 @@ The model successfully identifies most normal transactions while still detecting
 This graph shows the probability scores assigned by the machine learning model for predicting fraudulent transactions.
 
 Transactions with higher probability values are more likely to be classified as fraud by the model.
-![image alt]()
+![image alt](https://github.com/Sameekshavermaa/Fraud-detection-project/blob/aa1d66a94f9be22c664a6f71eb044fe29a52e989/output8.png)
 ## Project Workflow
 
 The fraud detection system was built using the following steps:
