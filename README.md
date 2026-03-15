@@ -60,9 +60,3 @@ After preprocessing the dataset, a **Random Forest Classifier** was trained to i
 The model performs very well in identifying fraudulent transactions while maintaining a low number of false positives.
 
 Since the dataset is highly imbalanced, evaluation metrics like **Precision**, **Recall**, and **F1-score** are more important than accuracy alone.
-
-## Confusion Matrix
-
-The confusion matrix shows the performance of the fraud detection model.
-
-![image alt]([images/confusion-matrix.png](https://github.com/Sameekshavermaa/Fraud-detection-project/blob/b4211bb57ca63b3212590accebc9b990bb7f6d63/images%3Aconfusion-matrix.png))
