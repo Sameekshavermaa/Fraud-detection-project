@@ -118,3 +118,9 @@ The fraud detection system was built using the following steps:
 - Use deep learning models for improved fraud detection
 - Apply advanced techniques for handling class imbalance
 - Deploy the model as a web application
+
+## Conclusion
+
+This project demonstrates how machine learning can be used to detect fraudulent credit card transactions. 
+
+Using a Random Forest classifier, the system successfully identifies fraudulent patterns in transaction data while maintaining high accuracy on normal transactions.
