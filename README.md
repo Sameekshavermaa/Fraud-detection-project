@@ -73,3 +73,40 @@ The confusion matrix shows the performance of the fraud detection model.
 - True Positives: 52 (Fraudulent transactions correctly detected)
 
 The model successfully identifies most normal transactions while still detecting a significant portion of fraudulent activity.
+
+## Project Workflow
+
+The fraud detection system was built using the following steps:
+
+1. Data Collection  
+   The credit card transaction dataset was loaded and inspected.
+
+2. Data Exploration  
+   A basic analysis was performed to understand the distribution of fraudulent and normal transactions.
+
+3. Data Preprocessing  
+   Missing values were checked, and the dataset was prepared for training.
+
+4. Feature Selection  
+   Relevant features such as transaction amount and anonymized PCA features were used.
+
+5. Model Training  
+   A Random Forest Classifier was trained on the dataset.
+
+6. Model Evaluation  
+   The model was evaluated using a confusion matrix, precision, recall, and F1-score.
+
+   ## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+## Future Improvements
+
+- Use deep learning models for improved fraud detection
+- Apply advanced techniques for handling class imbalance
+- Deploy the model as a web application
