@@ -1,16 +1,20 @@
 # Credit Card Fraud Detection
-
-This project builds a machine learning model to detect fraudulent credit card transactions.
-
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+This project builds a machine learning model to detect fraudulent credit card transactions.
 
 ## Model Used
 Random Forest Classifier
 
 ## Dataset
 European cardholder transaction dataset.
+### Dataset Source
+
+The dataset used in this project is publicly available:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Features
 - Data preprocessing
