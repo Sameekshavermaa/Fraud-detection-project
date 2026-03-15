@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 The dataset is highly imbalanced, with far fewer fraudulent transactions than normal transactions.
 
-![Transaction Distribution](images/class-distribution.png)
+![image alt](https://github.com/Sameekshavermaa/Fraud-detection-project/blob/bde582a9c2c03796bd36a8ac19c9c027607e7914/output.png)
 
 ## Features
 - Data preprocessing
