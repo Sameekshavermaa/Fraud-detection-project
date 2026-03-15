@@ -74,15 +74,3 @@ The confusion matrix shows the performance of the fraud detection model.
 - True Positives: 52 (Fraudulent transactions correctly detected)
 
 The model successfully identifies most normal transactions while still detecting a significant portion of fraudulent activity.
-## Model Evaluation
-
-### Confusion Matrix
-(image here)
-
-### Classification Report
-
-Precision, Recall, and F1-score were used to evaluate model performance.
-precision   recall   f1-score   support
-
-0      0.99      1.00      0.99     56864
-1      0.84      0.53      0.65        98
