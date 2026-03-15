@@ -129,6 +129,10 @@ E --> F[Model Evaluation]
 F --> G[Confusion Matrix & Metrics]
 ```
 
+## Top 10 Important Features for Fraud Detection
+![image alt](https://github.com/Sameekshavermaa/Fraud-detection-project/blob/165d6345d4d7585289eec30e71a20a949aeecb4f/Untitled.png)
+
+
    ## Technologies Used
 
 - Python
