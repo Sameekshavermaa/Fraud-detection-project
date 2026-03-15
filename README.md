@@ -101,6 +101,12 @@ The confusion matrix shows the performance of the fraud detection model.
 
 The model successfully identifies most normal transactions while still detecting a significant portion of fraudulent activity.
 
+## Fraud Probability Distribution
+
+This graph shows the probability scores assigned by the machine learning model for predicting fraudulent transactions.
+
+Transactions with higher probability values are more likely to be classified as fraud by the model.
+![image alt]()
 ## Project Workflow
 
 The fraud detection system was built using the following steps:
