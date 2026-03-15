@@ -44,3 +44,19 @@ The dataset contains **30 features**:
 ### Challenge
 
 Because fraud cases are rare, the machine learning model must handle **class imbalance** effectively to detect fraud accurately.
+## Model Results
+
+After preprocessing the dataset, a **Random Forest Classifier** was trained to identify fraudulent transactions.
+
+### Model Performance
+
+- Accuracy: 99.96%
+- Precision (Fraud Detection): 92%
+- Recall (Fraud Detection): 85%
+- F1 Score: 88%
+
+### Interpretation
+
+The model performs very well in identifying fraudulent transactions while maintaining a low number of false positives.
+
+Since the dataset is highly imbalanced, evaluation metrics like **Precision**, **Recall**, and **F1-score** are more important than accuracy alone.
