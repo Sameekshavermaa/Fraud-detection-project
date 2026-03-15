@@ -16,3 +16,31 @@ European cardholder transaction dataset.
 
 ## Goal
 Build a real-world AI fraud detection system.
+## Dataset Explanation
+
+The dataset used in this project contains credit card transactions made by European cardholders.
+
+It includes both normal and fraudulent transactions collected over two days.
+
+### Dataset Characteristics
+
+- Total Transactions: 284,807
+- Fraudulent Transactions: 492
+- Fraud Percentage: 0.172%
+
+This dataset is highly **imbalanced**, meaning fraudulent transactions are extremely rare compared to normal ones.
+
+### Features
+
+The dataset contains **30 features**:
+
+- `Time` – seconds elapsed between transactions
+- `Amount` – transaction amount
+- `V1` to `V28` – anonymized features created using PCA transformation
+- `Class` – target variable  
+  - `0` → Normal Transaction  
+  - `1` → Fraudulent Transaction
+
+### Challenge
+
+Because fraud cases are rare, the machine learning model must handle **class imbalance** effectively to detect fraud accurately.
