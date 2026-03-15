@@ -16,6 +16,12 @@ The dataset used in this project is publicly available:
 
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
+## Transaction Distribution
+
+The dataset is highly imbalanced, with far fewer fraudulent transactions than normal transactions.
+
+![Transaction Distribution](images/class-distribution.png)
+
 ## Features
 - Data preprocessing
 - Fraud detection model
