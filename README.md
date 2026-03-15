@@ -130,7 +130,7 @@ F --> G[Confusion Matrix & Metrics]
 ```
 
 ## Top 10 Important Features for Fraud Detection
-![image alt](https://github.com/Sameekshavermaa/Fraud-detection-project/blob/165d6345d4d7585289eec30e71a20a949aeecb4f/Untitled.png)
+![image alt](https://github.com/Sameekshavermaa/Fraud-detection-project/blob/6763fed4642dee184095dc575af5a2671a6051b8/output7.png)
 
 
    ## Technologies Used
