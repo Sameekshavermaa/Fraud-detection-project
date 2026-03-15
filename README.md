@@ -24,6 +24,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Goal
 Build a real-world AI fraud detection system.
+
 ## Dataset Explanation
 
 The dataset used in this project contains credit card transactions made by European cardholders.
@@ -103,6 +104,18 @@ The fraud detection system was built using the following steps:
 
 6. Model Evaluation  
    The model was evaluated using a confusion matrix, precision, recall, and F1-score.
+
+   ## Machine Learning Pipeline
+
+```mermaid
+flowchart LR
+A[Load Dataset] --> B[Data Exploration]
+B --> C[Data Preprocessing]
+C --> D[Feature Selection]
+D --> E[Train Random Forest Model]
+E --> F[Model Evaluation]
+F --> G[Confusion Matrix & Metrics]
+```
 
    ## Technologies Used
 
